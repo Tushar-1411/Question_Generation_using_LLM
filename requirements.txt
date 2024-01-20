@@ -2,8 +2,8 @@ python-dotenv
 langchain
 ipykernel
 # unstructured[all-docs]
-huggingface-hub
-sentence_transformers
+#huggingface-hub
+#sentence_transformers
 streamlit
-pypdf
+pypdf2
 langchain-google-genai
